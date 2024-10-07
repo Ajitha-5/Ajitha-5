@@ -1,8 +1,8 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwySRSd7iKJjnhsOV0ZIGzFONtp4PaPt0TdL1xh30UIuwz7iUoE8yQsSdeWlCgcEFZNY&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1380)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ajitha Devadharshini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6NTOOn6PSaxNq69x-FXsIL7OooewPxUyyg&s">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitha-5&label=Profile%20views&color=0e75b6&style=flat" alt="ajitha-5" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
